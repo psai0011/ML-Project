@@ -1,0 +1,10 @@
+[2025-02-18 10:43:04,214] ERROR - Exception occurred: division by zero
+Traceback (most recent call last):
+  File "C:\Users\panth\Desktop\Saikiran\ML_Projects\src\pipeline\exception.py", line 29, in <module>
+    a = 1 / 0  # Intentional error
+ZeroDivisionError: division by zero
+[2025-02-18 11:06:46,198] ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\panth\Desktop\Saikiran\ML_Projects\src\pipeline\exception.py", line 34, in <module>
+    a = 1 / 0  # Intentional error
+ZeroDivisionError: division by zero
